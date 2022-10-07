@@ -4,8 +4,8 @@ title: About me
 subtitle: A Master's student in Cryptography
 ---
 
-My name is Luca Di Domenico. I am studying to become a cryptographer. It will come the time when I will be working hard to assure your privacy, or the privacy of someone else.
+My name is Luca Di Domenico. I am studying to become a cryptographer. At some point, I will protect your privacy, or the privacy of someone else. Enjoy this website!
 
-### My story
+# My story
 
 It is **too** long to write it here, do you not think so?
