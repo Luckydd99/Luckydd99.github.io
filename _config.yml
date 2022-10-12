@@ -128,8 +128,8 @@ navbar-var-length: false
 navbar-col: "#4DA7FF"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#000000"
-page-col: "#000044"
-text-col: "#404040"
+page-col: "#85DFFF"
+text-col: "#202020"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
@@ -237,7 +237,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%Y / %m / %-d"
+date_format: "%Y/%m/%-d"
 
 # Facebook App ID
 #fb_app_id: ""
