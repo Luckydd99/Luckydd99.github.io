@@ -1,7 +1,7 @@
 ---
 layout: page
 title: To-do list 
-subtitle: That is, upcoming updates planned for this website, and updates aleardy deployed
+subtitle: Planned and deployed updates
 ---
 
 ## Add a link to my CV
@@ -14,7 +14,7 @@ The task is self-explanatory.
 
 The task is self-explanatory.
 
-## Write a post regarding PQCifris 2022!
+## Write a post regarding PQCifris 2022
 
 **Focus only on the main take-aways**
 
