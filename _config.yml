@@ -21,6 +21,7 @@ author: Luca Di Domenico
 
 navbar-links:
   About Me: "aboutme"
+  My CVs: "mycvs"
 #####  Resources:
 #####    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #####    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -128,7 +129,7 @@ navbar-var-length: false
 navbar-col: "#4DA7FF"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#000000"
-page-col: "#CFFBFF"
+page-col: "#E1FBFF"
 text-col: "#101010"
 link-col: "#008AFF"
 hover-col: "#0085A1"
