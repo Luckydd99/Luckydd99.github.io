@@ -12,9 +12,9 @@ In the meantime, you may as well enjoy this website!
 
 What better way to learn something more about one person than reading their Curriculum Vitae?
 
-CV written in English following the Europass format (January 2023): [PDF file download](https://github.com/Luckydd99/Luckydd99.github.io/files/10466699/LDD_CV_ENGLISH.pdf)
+CV written in English following the Europass format (January 2023): Removed
 
-CV written in Italian following the Europass format (January 2023): [PDF file download](https://github.com/Luckydd99/Luckydd99.github.io/files/10466694/LDD_CV_ITALIANO.pdf)
+CV written in Italian following the Europass format (January 2023): Removed
 <!--
-CV written in Italian following the Europass format (October 2022): [PDF file download](https://github.com/Luckydd99/Luckydd99.github.io/files/9776871/CV_Luca_Di_Domenico.pdf)
+CV written in Italian following the Europass format (October 2022): Removed
 -->
